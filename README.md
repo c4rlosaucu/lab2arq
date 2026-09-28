@@ -3,7 +3,7 @@
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=c4rlosaucu_lab2arq&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=c4rlosaucu_lab2arq)
 [![Maintainability issues](https://sonarcloud.io/api/project_badges/measure?project=c4rlosaucu_lab2arq&metric=software_quality_maintainability_issues)](https://sonarcloud.io/summary/new_code?id=c4rlosaucu_lab2arq)
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=c4rlosaucu_lab2arq&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=c4rlosaucu_lab2arq)
-
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=c4rlosaucu_lab2arq&metric=coverage)](https://sonarcloud.io/summary/new_code?id=c4rlosaucu_lab2arq)
 # lab2arq
 
 
