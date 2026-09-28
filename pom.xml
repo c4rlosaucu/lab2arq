@@ -26,9 +26,18 @@
 		<tag/>
 		<url/>
 	</scm>
+
+
+
 	<properties>
+
 		<java.version>21</java.version>
+
+	<sonar.projectKey>c4rlosaucu_lab2arq</sonar.projectKey>
+	<sonar.organization>c4rlosaucu</sonar.organization>
+	<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
+
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
