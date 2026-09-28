@@ -88,6 +88,9 @@
 
 
 		</plugins>
+
+		<finalName>lab2arq</finalName>
+
 	</build>
 
 </project>
