@@ -1,5 +1,11 @@
 [![CI/CD Pipeline](https://github.com/c4rlosaucu/lab2arq/actions/workflows/build.yml/badge.svg)](https://github.com/c4rlosaucu/lab2arq/actions/workflows/build.yml)
+[![Quality gate status](https://sonarcloud.io/api/project_badges/measure?project=c4rlosaucu_lab2arq&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=c4rlosaucu_lab2arq)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=c4rlosaucu_lab2arq&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=c4rlosaucu_lab2arq)
+[![Maintainability issues](https://sonarcloud.io/api/project_badges/measure?project=c4rlosaucu_lab2arq&metric=software_quality_maintainability_issues)](https://sonarcloud.io/summary/new_code?id=c4rlosaucu_lab2arq)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=c4rlosaucu_lab2arq&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=c4rlosaucu_lab2arq)
+
 # lab2arq
+
 
 
 Implementation of a Simple App with the next operations:
